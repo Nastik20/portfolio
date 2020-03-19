@@ -1,0 +1,103 @@
+.main-layout{
+    background: #EE5555;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.about-me {
+    text-align: center;
+    width:
+}
+.about-me-discription{
+    text-align: center;
+    width: 540px;
+    margin: 0 auto;
+}
+
+.item{
+    width: 25%;
+    height: 480px;
+    float: left;
+    background-size: cover;
+}
+.item-red{
+  background-image: url("kartinki.png")
+
+}
+.item-gray{
+    background-color: gray;
+    background-image: url("rabota.png");
+}
+about-me-title {
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+.about-me{
+    padding-top: 125px;
+    padding-bottom: 95px;
+}
+.about-me-discription{
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+
+}
+
+.portfolio {
+    overflow: hidden;
+}
+.logos{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.logo-item {
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.video {
+    padding-left: 250px;
+}
+
+.Vector
+
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+
+}
+.web-sait{
+    text-align: center;
+    width: 34%;
+    height: 480px;
+    background-size: cover;
+
+}
+.web-sait-title{
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 30px;
+
+}
+.web-sait{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.web-sait-discription{
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+}
+.about-me-discription{
+    text-align: center;
+    width: 540px;
+    margin: 0 auto;
+}
+
+
+
+

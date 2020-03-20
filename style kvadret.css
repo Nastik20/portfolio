@@ -8,7 +8,6 @@
 
 .about-me {
     text-align: center;
-    width:
 }
 .about-me-discription{
     text-align: center;
@@ -30,9 +29,7 @@
     background-color: gray;
     background-image: url("rabota.png");
 }
-
-.about-me-title
-{
+about-me-title {
     font-size: 32px;
     font-weight: 600;
     margin-bottom: 50px;
@@ -45,6 +42,7 @@
     font-size: 16px;
     line-height: 26px;
     color: #727272;
+
 }
 
 .portfolio {
@@ -59,3 +57,38 @@
     float: left;
     text-align: center;
 }
+.video {
+    padding-left: 400px;
+}
+
+.Vector {
+padding-left: 400px;
+}
+
+.web-sait{
+    width: 34%;
+    height: 480px;
+    background-size: cover;
+
+}
+.web-sait-title{
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 30px;
+
+}
+.web-sait{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+
+}
+.web-sait-discription{
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+}
+
+
+
+

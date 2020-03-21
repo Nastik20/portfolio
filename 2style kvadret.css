@@ -1,11 +1,3 @@
-@font-face {
-    font-family: "RobotoCondensed-Regular";
-    src: url("fonts/RobotoCondensed-Regular.ttf");
-}
-html{
-    font-family: "RobotoCondensed-Regular";
-}
-
 .main-layout{
     background: #EE5555;
 }
@@ -16,6 +8,7 @@ html{
 
 .about-me {
     text-align: center;
+    width:
 }
 .about-me-discription{
     text-align: center;
@@ -55,8 +48,6 @@ about-me-title {
 
 .portfolio {
     overflow: hidden;
-
-
 }
 .logos{
     padding-top: 100px;
@@ -68,14 +59,19 @@ about-me-title {
     text-align: center;
 }
 .video {
-    padding-left: 400px;
+    padding-left: 250px;
 }
 
-.Vector {
-padding-left: 400px;
-}
+.Vector
 
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+
+}
 .web-sait{
+    text-align: center;
     width: 34%;
     height: 480px;
     background-size: cover;
@@ -88,15 +84,18 @@ padding-left: 400px;
 
 }
 .web-sait{
-    text-align: center;
     padding-top: 20px;
     padding-bottom: 30px;
-
 }
 .web-sait-discription{
     font-size: 16px;
     line-height: 26px;
     color: #727272;
+}
+.about-me-discription{
+    text-align: center;
+    width: 540px;
+    margin: 0 auto;
 }
 
 

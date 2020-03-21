@@ -1,3 +1,11 @@
+@font-face {
+    font-family: "RobotoCondensed-Regular";
+    src: url("fonts/RobotoCondensed-Regular.ttf");
+}
+html{
+    font-family: "RobotoCondensed-Regular";
+}
+
 .main-layout{
     background: #EE5555;
 }
@@ -49,6 +57,8 @@
 
 .portfolio {
     overflow: hidden;
+
+
 }
 .logos{
     padding-top: 100px;

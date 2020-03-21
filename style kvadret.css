@@ -2,10 +2,24 @@
     font-family: "RobotoCondensed-Regular";
     src: url("fonts/RobotoCondensed-Regular.ttf");
 }
+@font-face {
+    font-family: 'fontello';
+    src: url('./fonts/fontello.eot?98632762');
+    src: url('./fonts/fontello.eot?98632762#iefix') format('embedded-opentype'),
+    url('./fonts/fontello.woff?98632762') format('woff'),
+    url('./fonts/fontello.ttf?98632762') format('truetype'),
+    url('./fonts/fontello.svg?98632762#fontello') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
 html{
     font-family: "RobotoCondensed-Regular";
 }
-
+i {
+    font-family: 'fontello';
+    font-size: 50px;
+    color: green;
+}
 .main-layout{
     background: #EE5555;
 }
@@ -98,6 +112,70 @@ padding-left: 400px;
     line-height: 26px;
     color: #727272;
 }
+
+.test {
+    width: 50%;
+    height: 50px;
+    background-color: green;
+}
+    @keyframes test {
+        from {
+            width: 50%;
+        }
+        to {
+            width: 100%;
+        }
+    }
+    .test{
+        animation-name: test;
+        animation-duration: 3s;
+        animation-timing-function: ease-in;
+        animation-iteration-count: infinite;
+        animation-direction: alternate;
+        animation-delay: 2s;
+    }
+    .test:hover{
+        animation-play-state: paused;
+    }
+
+
+    @keyframes loader{
+    from{
+        transform: rotate(0deg);
+    }
+        to{
+            transform: rotate(360deg);
+        }
+    }
+    .loader {
+        animation-name: loader;
+        animation-duration: 3s;
+        animation-iteration-count: infinite;
+        animation-timing-function: linear;
+    }
+    @keyframes bluesky {
+        from{
+            background-color: blue;
+
+        }
+        50% {
+            background-color: aqua;
+        }
+        to{
+            background-color: blue;
+        }
+    }
+    .sky{
+        width: 50%;
+        height: 250px;
+        animation-name: bluesky;
+        animation-duration: 3s;
+
+    }
+
+
+
+
 
 
 

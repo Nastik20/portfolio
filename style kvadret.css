@@ -173,6 +173,37 @@ padding-left: 400px;
 
     }
 
+.test1, test2, test3 {
+    background-color: mediumvioletred;
+    width: 500px;
+    height: 500px;
+}
+
+.parent .child{
+    color: green;
+}
+
+span ~ h2 {
+    color: red;
+}
+
+li{
+    width: 150px;
+    height: 30px;
+    display: inline-block;
+    background-color: darkblue;
+}
+li:empty {
+    background-color: #ffd100;
+
+li:nth-child()
+    color: magenta;
+                }
+li:nth-child(10n) {
+    color: blue;
+}
+
+
 
 
 

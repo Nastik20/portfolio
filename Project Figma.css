@@ -1,0 +1,177 @@
+.main-layout {
+    background-color: #E5E5E5;
+    width: 1920px;
+    height: 700px;
+}
+
+.first-screen-container {
+    width: 36px;
+    height: 60px;
+    padding-left: 402px;
+    padding-top: 50px;
+    font-family: "Revalia";
+    text-align: center;
+    font-size: 48px;
+    line-height: 60px;
+    color: #34547A;
+}
+
+
+
+
+
+
+
+
+
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.menu-item {
+    width: 10%;
+    float: left;
+    padding-right: 5px;
+    padding-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+.screen {
+    width: 357px;
+    height: 233.7px;
+    padding-top: 160px;
+    padding-left: 480px;
+}
+
+.div {
+    float: left;
+    line-height: 120px;
+    font-size: 40px;
+    margin-top: 600px;
+    width: 320px;
+    margin-right: 10px;
+    text-align: center;
+
+}
+
+.about-me {
+    text-align: center;
+    width:
+}
+.about-me-discription{
+    text-align: center;
+    width: 540px;
+    margin: 0 auto;
+
+}
+
+.portfolio {
+    overflow: hidden;
+}
+.logos{
+    padding-top: 200px;
+    padding-bottom: 100px;
+}
+.logo-item {
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+
+.item{
+    width: 25%;
+    height: 480px;
+    float: left;
+
+
+
+}
+.item-red{
+    background-image: url("kartinki.png")
+
+}
+.item-gray{
+    background-color: gray;
+    background-image: url("rabota.png");
+}
+
+
+.Blue line{
+    padding-top: 2500px;
+    padding-bottom: 100px;
+}
+
+.Anketa3{
+    width: 357px;
+    height: 233.7px;
+    padding-top: 2400px;
+    padding-left: 1200px;
+}
+
+
+
+
+
+
+
+
+.Vector
+
+about-me-title {
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 50px;
+}
+.about-me{
+    padding-top: 125px;
+    padding-bottom: 95px;
+}
+.about-me-discription{
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+}
+.video {
+    padding-left: 400px;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+
+}
+.web-sait{
+    text-align: center;
+    width: 34%;
+    height: 480px;
+    background-size: cover;
+
+}
+.web-sait-title{
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 30px;
+
+}
+.web-sait{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.web-sait-discription{
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+}
+
+
+
